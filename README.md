@@ -15,3 +15,9 @@ This is for Rust programming practice!
 
 《Programming In Rust》
 《》
+
+Rust环境安装配置：
+
+1. https://github.com/rust-lang-nursery/rustup.rs
+
+
