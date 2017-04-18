@@ -1,0 +1,13 @@
+[package]
+name = "basic_data_layout"
+version = "0.1.0"
+authors = ["huohongbo"]
+
+[dependencies]
+
+[[bin]]
+name = "second"
+path = "src/second.rs"
+[[bin]]
+name = "first"
+path = "src/first.rs"

@@ -1,0 +1,4 @@
+[root]
+name = "unrecoverable-errors-with-panic"
+version = "0.1.0"
+

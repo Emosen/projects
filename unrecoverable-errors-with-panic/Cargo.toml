@@ -1,0 +1,10 @@
+[package]
+name = "unrecoverable-errors-with-panic"
+version = "0.1.0"
+authors = ["huohongbo"]
+
+[dependencies]
+
+[profile.release]
+panic = 'abort'
+

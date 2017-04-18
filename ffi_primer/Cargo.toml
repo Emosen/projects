@@ -1,0 +1,7 @@
+[package]
+name = "ffi_primer"
+version = "0.1.0"
+authors = ["huohongbo"]
+
+[dependencies]
+libc = "0.2.9"

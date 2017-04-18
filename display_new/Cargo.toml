@@ -1,0 +1,6 @@
+[package]
+name = "display_new"
+version = "0.1.0"
+authors = ["huohongbo"]
+
+[dependencies]

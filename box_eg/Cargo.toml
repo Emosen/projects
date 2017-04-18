@@ -1,0 +1,6 @@
+[package]
+name = "box_eg"
+version = "0.1.0"
+authors = ["huohongbo"]
+
+[dependencies]
