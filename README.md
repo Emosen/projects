@@ -1,7 +1,7 @@
 # projects
 This is for Rust programming practice!
 
-参考一下网址：
+参考以下网址：
 
 1. https://rustcc.gitbooks.io/rustprimer/content/function/return_value.html
 
@@ -9,3 +9,9 @@ This is for Rust programming practice!
 
 3. http://rustbyexample.com/flow_control/match/destructuring/destructure_pointers.html
 
+4. https://doc.rust-lang.org/book/references-and-borrowing.html
+
+参考书籍：
+
+《Programming In Rust》
+《》
